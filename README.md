@@ -10,3 +10,5 @@ Using text embeddings from ChatGPT as inputs to conventional classifiers (hybrid
 RAG-based ChatGPT for lithology classification (pure language-based methods)
 
 Using LLMs for tabular data is a very niche and promising area, and this article will explore some initial results to lithology prediction. Below are some references related to applications of LLMs in tabular data
+
+
